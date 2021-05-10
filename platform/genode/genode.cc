@@ -15,7 +15,6 @@
 #include <base/buffered_output.h>
 #include <util/string.h>
 #include <util/reconstructible.h>
-#include <terminal_session/connection.h>
 #include <timer_session/connection.h>
 
 #include <ada/exception.h>
